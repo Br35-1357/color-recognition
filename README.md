@@ -4,4 +4,4 @@ This is a small proyect I have assigned to myself, this program is designed for 
 from an specific region of the camera image, the code will identify the colors on it, then will determinate the color of the object in front of the camera and the color will be 
 displayed on the screen.
 
-Please leave your opinion.
+Let me know what do you think.
