@@ -29,7 +29,7 @@ while(True):
             print("You can stop the program by pressing the key: q")
             print("\n")
             time.sleep(2)
-            print("The color detection might not work properly if the ambient illumination is too bright or too dark.")
+            print("The color detection might not work properly if the ambient lighting is too bright or too dark.")
             print("\n")
             time.sleep(2)
             print("Starting program...")
